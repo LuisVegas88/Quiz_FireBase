@@ -1,2 +1,3 @@
-# Quiz_FireBase
-Quiz  que recoge las preguntas de FireBase
+# Quiz
+Quiz Game Of Thrones
+Quiz que coge las preguntas de FireBase
